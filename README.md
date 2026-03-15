@@ -1,16 +1,26 @@
-# React + Vite
+# 🔐 React Auth System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern Authentication UI built with **React**, **Tailwind CSS**, and **Vite**. This project features a dual-tab layout for Login and Registration with real-time schema validation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- **Dynamic Tab Switching:** Toggle between Login and Register forms without page reloads.
+- **Form Validation:** Integrated with **Yup** and **React Hook Form** for robust client-side validation.
+- **Responsive Design:** Styled with **Tailwind CSS** to ensure a mobile-first, sleek user interface.
+- **Interactive UI:** Includes "Show Password" toggles, focus states, and success/error message handling.
+- **Clean Code:** Modular component structure for easy maintenance.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Form Logic:** [React Hook Form](https://react-hook-form.com/)
+- **Schema Validation:** [Yup](https://github.com/jquense/yup)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
