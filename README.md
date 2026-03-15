@@ -1,3 +1,4 @@
+```markdown
 # 🔐 React Auth System
 
 A clean and modern Authentication UI built with **React**, **Tailwind CSS**, and **Vite**. This project features a dual-tab layout for Login and Registration with real-time schema validation.
@@ -24,3 +25,40 @@ A clean and modern Authentication UI built with **React**, **Tailwind CSS**, and
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+
+```
+
+2. **Install dependencies:**
+```bash
+npm install
+
+```
+
+
+3. **Start the development server:**
+```bash
+npm run dev
+
+```
+
+
+
+## 📂 Folder Structure
+
+```text
+src/
+├── components/     # UI Components (LoginForm, RegisterForm)
+├── validations/    # Yup schemas for Login and Registration
+├── App.jsx         # Main App logic and Tab management
+├── App.css         # Tailwind directives and custom styles
+└── main.jsx        # Entry point
+
+```
+
+## 📸 Preview
+
+## *You can add a screenshot of your app here to make the README look even better!*
+
+Developed with ❤️ by Zahra Nazari
+
+```
