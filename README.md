@@ -58,5 +58,3 @@ src/
 ## *You can add a screenshot of your app here to make the README look even better!*
 
 Developed with ❤️ by Zahra Nazari
-
-```
