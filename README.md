@@ -1,4 +1,3 @@
-```markdown
 # 🔐 React Auth System
 
 A clean and modern Authentication UI built with **React**, **Tailwind CSS**, and **Vite**. This project features a dual-tab layout for Login and Registration with real-time schema validation.
